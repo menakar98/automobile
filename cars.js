@@ -8,7 +8,7 @@ const cars = [
         fuel: 'Petrol',
         transmission: 'Manual',
         brand: 'honda',
-        image: 'https://imgd.aeplcdn.com/1280x720/n/cw/ec/26755/city-4th-generation-exterior-right-front-three-quarter.jpeg?q=80'
+        image: 'https://images.unsplash.com/photo-1542046272227-d247df21628a?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9uZGElMjBjYXJzfGVufDB8fDB8fHww'
     },
     {
         id: 2,
