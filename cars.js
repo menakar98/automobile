@@ -8,7 +8,7 @@ const cars = [
         fuel: 'Petrol',
         transmission: 'Manual',
         brand: 'honda',
-        image: 'https://www.autotrustcars.in/images/honda-city-2018.jpg'
+        image: 'https://imgd.aeplcdn.com/1280x720/n/cw/ec/26755/city-4th-generation-exterior-right-front-three-quarter.jpeg?q=80'
     },
     {
         id: 2,
