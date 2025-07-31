@@ -8,7 +8,7 @@ const cars = [
         fuel: 'Petrol',
         transmission: 'Manual',
         brand: 'honda',
-        image: 'https://source.unsplash.com/featured/?honda,car'
+        image: 'https://www.autotrustcars.in/images/honda-city-2018.jpg'
     },
     {
         id: 2,
@@ -18,7 +18,7 @@ const cars = [
         fuel: 'Petrol',
         transmission: 'Manual',
         brand: 'hyundai',
-        image: 'https://source.unsplash.com/featured/?hyundai,car'
+        image: 'https://www.autotrustcars.in/images/hyundai-i20-2020.jpg'
     },
     {
         id: 3,
@@ -28,7 +28,7 @@ const cars = [
         fuel: 'Diesel',
         transmission: 'Automatic',
         brand: 'toyota',
-        image: 'https://source.unsplash.com/featured/?toyota,car'
+        image: 'https://www.autotrustcars.in/images/toyota-innova-crysta-2019.jpg'
     },
     {
         id: 4,
@@ -38,7 +38,7 @@ const cars = [
         fuel: 'Petrol',
         transmission: 'Manual',
         brand: 'maruti',
-        image: 'https://source.unsplash.com/featured/?suzuki,car'
+        image: 'https://www.autotrustcars.in/images/maruti-swift-2021.jpg'
     },
     {
         id: 5,
@@ -48,7 +48,7 @@ const cars = [
         fuel: 'Petrol',
         transmission: 'Manual',
         brand: 'honda',
-        image: 'https://source.unsplash.com/featured/?honda,jazz'
+        image: 'https://www.autotrustcars.in/images/honda-jazz-2017.jpg'
     },
     {
         id: 6,
@@ -58,7 +58,7 @@ const cars = [
         fuel: 'Diesel',
         transmission: 'Automatic',
         brand: 'toyota',
-        image: 'https://source.unsplash.com/featured/?toyota,suv'
+        image: 'https://www.autotrustcars.in/images/toyota-fortuner-2020.jpg'
     }
 ];
 
